@@ -1,0 +1,182 @@
+[
+	{
+		"id": 1,
+		"name": "Ноутбук Lenovo LOQ 15IRH8",
+		"price": 55999,
+		"discount": 49999,
+		"img": "https://content1.rozetka.com.ua/goods/images/big/375558269.jpg",
+		"link": "https://rozetka.com.ua/lenovo-82xv00k8ra/p389481501/",
+		"category": "Ноутбуки"
+	},
+	{
+		"id": 2,
+		"name": "Ноутбук HP Pavilion 15-eh1106ua",
+		"price": 29999,
+		"discount": 22999,
+		"img": "https://content1.rozetka.com.ua/goods/images/big/207625738.jpg",
+		"link": "https://rozetka.com.ua/hp-4a7n2ea/p314213398/",
+		"category": "Ноутбуки"
+	},
+	{
+		"id": 3,
+		"name": "Ноутбук ASUS Vivobook 15 X1500EA-BQ3733",
+		"price": 19999,
+		"discount": 17499,
+		"img": "https://content.rozetka.com.ua/goods/images/big/334343847.jpg",
+		"link": "https://rozetka.com.ua/asus-90nb0ty6-m040w0/p379852182/",
+		"category": "Ноутбуки"
+	},
+	{
+		"id": 4,
+		"name": "Ноутбук ASUS Vivobook 15 X1500EA-BQ3733",
+		"price": 28999,
+		"discount": null,
+		"img": "https://content.rozetka.com.ua/goods/images/big/353726664.jpg",
+		"link": "https://rozetka.com.ua/lenovo-82xq009hra/p389016597/",
+		"category": "Ноутбуки"
+	},
+	{
+		"id": 5,
+		"name": "Ноутбук Acer Aspire 7 A715-76G-56U7",
+		"price": 37999,
+		"discount": 30999,
+		"img": "https://content1.rozetka.com.ua/goods/images/big/362592316.jpg",
+		"link": "https://rozetka.com.ua/acer-nhqn4eu001/p391395969/",
+		"category": "Ноутбуки"
+	},
+	{
+		"id": 6,
+		"name": "Автомобільний акумулятор Bosch 44Аh",
+		"price": 3077,
+		"discount": 2534,
+		"img": "https://content.rozetka.com.ua/goods/images/big/268599011.jpg",
+		"link": "https://rozetka.com.ua/bosch-0-092-s40-010/p343089166/",
+		"category": "Автомобільні акумулятори"
+	},
+	{
+		"id": 7,
+		"name": "Автомобільний акумулятор Bosch 6СТ-54",
+		"price": 3174,
+		"discount": null,
+		"img": "https://content1.rozetka.com.ua/goods/images/big/67737032.jpg",
+		"link": "https://rozetka.com.ua/bosch_0092s30041/p64970262/",
+		"category": "Автомобільні акумулятори"
+	},
+	{
+		"id": 8,
+		"name": "Автомобільний акумулятор Varta Silver Dynamic 54А",
+		"price": 3296,
+		"discount": 3091,
+		"img": "https://content2.rozetka.com.ua/goods/images/big/12539318.jpg",
+		"link": "https://rozetka.com.ua/varta_554400053/p54873006/",
+		"category": "Автомобільні акумулятори"
+	},
+	{
+		"id": 9,
+		"name": "Автомобільний акумулятор WESTA 6CT-60 А",
+		"price": 2494,
+		"discount": null,
+		"img": "https://content.rozetka.com.ua/goods/images/big/342435825.jpg",
+		"link": "https://rozetka.com.ua/westa-wpr6001lb2/p382851180/",
+		"category": "Автомобільні акумулятори"
+	},
+	{
+		"id": 10,
+		"name": "Автомобільний акумулятор WESTA 6CT-63 А",
+		"price": 2922,
+		"discount": 2448,
+		"img": "https://content1.rozetka.com.ua/goods/images/big/363928359.jpg",
+		"link": "https://rozetka.com.ua/westa-wefb6301lb2/p377699958/",
+		"category": "Автомобільні акумулятори"
+	},
+	{
+		"id": 11,
+		"name": "Набір подушок для сну Sleepingg Антиаллергенное волокно 50х70",
+		"price": 705,
+		"discount": 450,
+		"img": "https://content1.rozetka.com.ua/goods/images/big/35335196.jpg",
+		"link": "https://rozetka.com.ua/sleepingg_4820227283217/p256591901/",
+		"category": "Подушки"
+	},
+	{
+		"id": 12,
+		"name": "Набір подушок MirSon №1510 Eco Light",
+		"price": 1100,
+		"discount": 375,
+		"img": "https://content1.rozetka.com.ua/goods/images/big/276156271.jpg",
+		"link": "https://rozetka.com.ua/mirson_2200004208992/p318732199/",
+		"category": "Подушки"
+	},
+	{
+		"id": 13,
+		"name": "Подушка ортопедическая MirSon №6017 ",
+		"price": 3000,
+		"discount": null,
+		"img": "https://content.rozetka.com.ua/goods/images/big/175541422.jpg",
+		"link": "https://rozetka.com.ua/mirson_2200003261189/p294983383/",
+		"category": "Подушки"
+	},
+	{
+		"id": 14,
+		"name": "Подушка для сну Sei Design Standart ",
+		"price": 550,
+		"discount": null,
+		"img": "https://content.rozetka.com.ua/goods/images/big/223998936.jpg",
+		"link": "https://rozetka.com.ua/sei-design-4820227285334/p319849837/",
+		"category": "Подушки"
+	},
+	{
+		"id": 15,
+		"name": "Подушка Руно Дует 50x70 см",
+		"price": 300,
+		"discount": 215,
+		"img": "https://content.rozetka.com.ua/goods/images/big/299000473.jpg",
+		"link": "https://rozetka.com.ua/runo-r31052slu-duet/p360471696/",
+		"category": "Подушки"
+	},
+	{
+		"id": 16,
+		"name": "Апарат високого тиску LEADER",
+		"price": 4500,
+		"discount": 3290,
+		"img": "https://content.rozetka.com.ua/goods/images/big/349804424.jpg",
+		"link": "https://rozetka.com.ua/380808135/p380808135/",
+		"category": "Апарати високого тиску"
+	},
+	{
+		"id": 17,
+		"name": "Акумуляторний апарат високого тиску LEADER 20В/28бар",
+		"price": 2500,
+		"discount": null,
+		"img": "https://content2.rozetka.com.ua/goods/images/big/346822025.jpg",
+		"link": "https://rozetka.com.ua/350232798/p350232798/",
+		"category": "Апарати високого тиску"
+	},
+	{
+		"id": 18,
+		"name": "Насадка для миття високого тиску Karcher T 5 T-Racer",
+		"price": 4250,
+		"discount": 3800,
+		"img": "https://content.rozetka.com.ua/goods/images/big/362155174.jpg",
+		"link": "https://rozetka.com.ua/394020993/p394020993/",
+		"category": "Апарати високого тиску"
+	},
+	{
+		"id": 19,
+		"name": "АПАРАТ ВИСОКОГО ТИСКУ ANNOVI REVERBERI НД 970",
+		"price": 74000,
+		"discount": null,
+		"img": "https://content2.rozetka.com.ua/goods/images/big/335978922.jpg",
+		"link": "https://rozetka.com.ua/380400732/p380400732/",
+		"category": "Апарати високого тиску"
+	},
+	{
+		"id": 20,
+		"name": "Апарат високого тиску AVA AVA Master P80 Large bundle",
+		"price": 22000,
+		"discount": null,
+		"img": "https://content1.rozetka.com.ua/goods/images/big/195541047.png",
+		"link": "https://rozetka.com.ua/311266993/p311266993/",
+		"category": "Апарати високого тиску"
+	}
+]
